@@ -1,0 +1,56 @@
+Aula 1 - React e Next.js
+Ambiente de Desenvolvimento
+Fluxo de uma API
+Iniciando com React
+Conceitos do React
+	-Componente
+	-Propriedade
+	-Estado
+SEO com React
+Iniciando com Next.js
+	-Server-side rendering
+	-Static site generation
+Criando projeto com Next.js
+
+Aula 2 - Consumo de API
+Porque Typeescript?
+Criando estilos globais
+Configurar fonte
+Componente: Header
+Componente:Player
+Configurando API em JSON (usando axius)
+Consumindo API na home
+SPA vs SSR vs SSG
+Gerando home de forma estática
+Criando o build do projeto
+Executando a build
+
+Aula 3 - Páginas do App
+Página Home
+Roteamento no Next.js
+Página Episódio
+Páginas estáticas e dinâmicas (GetStaticPath)
+
+Aula 4 - Contexto e áudio
+Entendendo a Context API
+Criando o contexto do Player
+Dando o Play nos episódios
+Exibindo informações no player
+Adicionando ------
+Usando refs no React
+Ouvindo evento de play e pause
+
+Aula 5 - Controlando player
+Controles do próximo e anterior
+Controle de loop
+Controle de shuffle
+Controle de tempo atual
+Controle pelo slider
+
+Dicas
+- Fazer o projeto responsivo (não está adaptado/ mobile nao vai funcionar direito) 
+- PWA Progressive Web apps (NEXT-PWA) transformar um aplicativo web tanto mobile quanto dektopp que tira a carcaça do browser e roda como um app
+- Tema dark para o podcast pode usar os temas do omni
+
+ 
+
